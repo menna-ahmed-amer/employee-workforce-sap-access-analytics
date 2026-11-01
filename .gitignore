@@ -1,0 +1,13 @@
+# Do not accidentally publish raw organizational data or connection caches
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+*.tsv
+*.pbix
+*.zip
+~$*
+.DS_Store
+__pycache__/
+!workbook/Employee SAP Project.xlsx
